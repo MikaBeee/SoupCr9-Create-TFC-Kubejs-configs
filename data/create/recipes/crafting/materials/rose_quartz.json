@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "QII",
+      "III",
+      "III"
+    ],
+    "key": {
+      "Q": {
+        "item": "tfc:ore/halite" 
+      },
+      "I": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "create:rose_quartz"
+    }
+}
